@@ -1,8 +1,8 @@
-### Hi there 👋🏽, Rejoice Kwizi
-#### Entry-Level Software Developer 
+# Hi there 👋🏽, Rejoice Kwizi
+## Entry-Level Software Developer 
 I am a 3rd year student studying Software Development👩🏽‍💻.
 
-# Skills: 
+### Skills: 
 - HTML / CSS / JavaScript / MySQL / Java / Python / Kotlin 
 - Data Structures and Algorithms / Data Analytics / Software Verification and Validation / Software Processes 
 
